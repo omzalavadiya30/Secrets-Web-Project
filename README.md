@@ -32,5 +32,4 @@ The **Secrets App** is a secure Node.js + Express web application that allows us
 - **Authentication**: JWT, bcrypt, cookie-parser
 - **Deployment**: Render
 
----
 
