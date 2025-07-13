@@ -6,8 +6,7 @@ The **Secrets App** is a secure Node.js + Express web application that allows us
 
 ## 🌐 Live Demo
 
-**🔗 Deployed on Render:** [https://your-app-name.onrender.com](https://your-app-name.onrender.com)  
-*(Replace with your actual live link)*
+**🔗 Deployed on Render:** [https://your-app-name.onrender.com](https://your-app-name.onrender.com)
 
 ---
 
@@ -35,10 +34,3 @@ The **Secrets App** is a secure Node.js + Express web application that allows us
 
 ---
 
-## 🚀 Getting Started
-
-```bash
-git clone https://github.com/your-username/secrets-app.git
-cd secrets-app
-npm install
-node index.js
