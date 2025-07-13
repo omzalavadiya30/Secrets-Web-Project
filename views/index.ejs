@@ -1,0 +1,40 @@
+<%- include('partials/header') %>
+
+<!-- Main content of index.ejs goes here -->
+<div class="hero">
+    <div class="hero-content">
+        <h1 class="hero-title">Share Your Secrets Securely</h1>
+        <p class="hero-subtitle">A secure platform to share and manage your secrets with robust authentication and encryption</p>
+        <div class="hero-buttons">
+            <a href="/register" class="btn btn-primary btn-lg">Get Started</a>
+        </div>
+    </div>
+    <div class="hero-image">
+        <i class="fas fa-shield-alt"></i>
+    </div>
+</div>
+
+<div class="features">
+    <div class="container">
+        <h2>Why Choose Secrets?</h2>
+        <div class="features-grid">
+            <div class="feature-card">
+                <i class="fas fa-lock"></i>
+                <h3>Secure Authentication</h3>
+                <p>JWT-based authentication with secure password hashing and HttpOnly cookies</p>
+            </div>
+            <div class="feature-card">
+                <i class="fas fa-shield-virus"></i>
+                <h3>Data Protection</h3>
+                <p>Your secrets are encrypted and stored securely with industry-standard practices</p>
+            </div>
+            <div class="feature-card">
+                <i class="fas fa-user-check"></i>
+                <h3>Email Verification</h3>
+                <p>Comprehensive email format validation and secure registration process</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<%- include('partials/footer') %>
