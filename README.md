@@ -4,9 +4,9 @@ The **Secrets App** is a secure Node.js + Express web application that allows us
 
 ---
 
-## 🌐 Live Demo
+## 🔗 Live Demo
 
-**🔗 Deployed on Render:** [https://your-app-name.onrender.com](https://your-app-name.onrender.com)
+👉 [Click here to open the live app](https://secrets-web-project-frtr.onrender.com/)
 
 ---
 
